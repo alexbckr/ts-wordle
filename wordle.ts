@@ -1,5 +1,6 @@
 /**
  * Typescript Wordle
+ * gh: https://github.com/alexbckr/ts-wordle
  *
  * HOW TO PLAY
  * 1. Fill in the array in CurrentGame with a list of strings (guesses)
