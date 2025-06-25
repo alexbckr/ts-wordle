@@ -1,6 +1,6 @@
 # Wordle in TypeScript's Type System
 
-A fully type-level implementation of Wordle written entirely in TypeScript types.
+A fully type-level implementation of Wordle written entirely in TypeScript types. [Open in GitHub](https://github.dev/alexbckr/ts-wordle)
 
 ## Why is this cool?
 
